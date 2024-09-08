@@ -67,27 +67,27 @@ can share vision._
 ## Game Modes
 
 * __Advanced Game Settings__: Base mode selection
-![image](resources\images\mod_settings-header.png)
+![mod settings header](resources/images/mod_settings-header.png)
 
 * __City-State Wars__: Game mode that pitches players to fight without any civilization bonus. To obtain advantage players have to capture cities spread in a grid like shape around the map.
-![image](resources\images\mod_selection-city_state_wars.png)
+![image](resources/images/mod_selection-city_state_wars.png)
 
 * __Nomad__: Game mode where players start out with villagers spread out across the map without a Town Center or Scout. They must build their first Town Center at no cost which becomes their landmark Town Center. The standard tech tree unlocks upon Town Center creation.
 Additional Options for Nomad AGS.
   * __Spawn Scout (Scattered)__: This option allows a Scout to be spawned along with villagers on game start.
 
-  ![image](resources\images\mod_selection-nomad.png)
+  ![image](resources/images/mod_selection-nomad.png)
 
 
 ## Settings
-![image](resources\images\mod_settings.png)
+![image](resources/images/mod_settings.png)
 
 ## Feedback & Contribution & Donations:
 Contribution in any form is welcomed. Be free to also provide ideas or requests via issues/tickets.
 
 ## Bug & other issues:
 Verify that you are using mod published by Joshua Sachtleben.
-![image](resources\images\mod_header.png)
+![image](resources/images/mod_header.png)
 
 Once you have verified that you are using correct version of the mod and issue persists.
 Create a issue and try to provide as much information as possible.
