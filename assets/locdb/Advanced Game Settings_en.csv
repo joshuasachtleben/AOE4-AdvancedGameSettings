@@ -1,7 +1,7 @@
 ﻿ID,Pipeline,PipelineStage,Notes,TranslationNotes,Tags,Text
 1,,,,Mod Title,,Advanced Game Settings
-2,,,,Mod Page Description,,"Extends Age of Empires 4 standard game mode with new options and truly gives you an ability to customize match settings.\n\nContains additional win conditions like score, classic king of the hill option, wonder rush and many more victory types. Provides new options such as different starts like nomad or fortified and many new options including treaty & diplomacy, age restrictions, handicap...\n\nHelp, feedback, bug reports and contribution to mode can be done at: \nhttps://github.com/search?q=AOE4-AdvancedGameSettings\nCommunity Translations:\n - Chinese\n - Czech\n - French"
-3,,,,Mod Gamemode Description,,"Advanced Game Settings provides you with a variety of match options and win conditions to customize your game and play it how you want to.\n\nHelp, feedback, bug reports and contribution to mode can be done at:\nhttps://github.com/search?q=AOE4-AdvancedGameSettings"
+2,,,,Mod Page Description,,"Continuing from suspended development, this mod extends Age of Empires 4 standard game mode with new options and truly gives you an ability to customize match settings.\n\nThis mod contains additional win conditions like Score, King of the Hill, Wonder Rush, and others. It provides new starting conditions like Nomad or Fortified, and it enables many new options including Treaty & Diplomacy, Age Restrictions, Handicaps, and more.\n\nHelp, feedback, bug reports, and contributions for this mod variant can be found at: \nhttps://github.com/joshuasachtleben/AOE4-AdvancedGameSettings"
+3,,,,Mod Gamemode Description,,"Advanced Game Settings provides you with a variety of match options and win conditions to customize your game and play it how you want to.\n\nHelp, feedback, bug reports and contribution to mode can be done at:\nhttps://github.com/joshuasachtleben/AOE4-AdvancedGameSettings"
 4,,,,Option Header,,Win Conditions
 5,,,,Annihilation Option,,Annihilation
 6,,,,Annihilation Option,,"Destroy all enemies. This option is required, unless you wish for player to be never eliminated even if he loses everything."
@@ -321,7 +321,7 @@
 320,,,ags_match_ui,Ingame Button,,Match Settings
 321,,,ags_match_ui,Ingame Button,,Mod version:
 322,,,,Mod Title,,Nomad AGS
-323,,,,Mod Gamemode Description,,"Nomad is based on well known other nomad mod. This is based on Advanced Game Settings and due to that it provides diplomacy and few options that stays true to nomad nature.\n\nHelp, feedback, bug reports and contribution to mode can be done at:\nhttps://github.com/search?q=AOE4-AdvancedGameSettings"
+323,,,,Mod Gamemode Description,,"Nomad is based on well known other nomad mod. This is based on Advanced Game Settings and due to that it provides diplomacy and few options that stays true to nomad nature.\n\nHelp, feedback, bug reports and contribution to mode can be done at:\nhttps://github.com/joshuasachtleben/AOE4-AdvancedGameSettings"
 324,,,,Wonder Construction,,Wonder Construction
 325,,,,Wonder Construction,,Enables Wonder construction without Wonder win condition or Conquest win condition with Conquest Wonder selected.
 326,,,,Double Workers Option,,Double Workers
@@ -358,7 +358,7 @@
 357,,,,Treasure Option,,Treasures
 358,,,,Treasure Option,,Few treasures will appear randomly around the map.
 359,,,,Resource Option,,Low
-360,,,,State Wars,,"Conquer majority of city-states to ensure victory. Each players starts with few monks and has to find and takeover city.\nCivilization choice has no effect. Population is limited to 150. Team that controls 75% of cities will win the game.\n\nHelp, feedback, bug reports and contribution to mode can be done at:\nhttps://github.com/search?q=AOE4-AdvancedGameSettings"
+360,,,,State Wars,,"Conquer majority of city-states to ensure victory. Each players starts with few monks and has to find and takeover city.\nCivilization choice has no effect. Population is limited to 150. Team that controls 75% of cities will win the game.\n\nHelp, feedback, bug reports and contribution to mode can be done at:\nhttps://github.com/joshuasachtleben/AOE4-AdvancedGameSettings"
 361,,,,State Wars,,City-State Wars
 362,,,ags_conditions_objectives,State Wars,,Control majority of cities
 363,,,ags_conditions_objectives,State Wars,,City %1NAMEORNUMBER% 
@@ -394,4 +394,4 @@
 393,,,,,,Nomad Tournament AGS
 394,,,,,,Preconfigured version of Nomad for The Nomadic Clash organized by MrMerlin.
 395,,,,KOTH,,King of the Hill AGS
-396,,,,KOTH,,"Provides quick way to play King of the Hill on any map.\n\nHelp, feedback, bug reports and contribution to mode can be done at:\nhttps://github.com/search?q=AOE4-AdvancedGameSettings"
+396,,,,KOTH,,"Provides quick way to play King of the Hill on any map.\n\nHelp, feedback, bug reports and contribution to mode can be done at:\nhttps://github.com/joshuasachtleben/AOE4-AdvancedGameSettings"
