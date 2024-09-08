@@ -90,7 +90,7 @@
 89,,Časovač divú světa 
 90,,Čas potřebný k uspěšné obraně divú světa
 91,,Div sveta poslední stání
-92,,Zničení hotového zázraku odstraní majitele
+92,,Destroying finished wonder will eliminate owner
 93,,Cena divu sveta
 94,,Škálujte náklady na zázrak na základě počtu hráčů. To definuje další množství všech zdrojů na hráče. Cena začíná na 3000 za každý zdroj.
 95,,0 za hráče
@@ -103,7 +103,7 @@
 102,,2000 za hráče
 103,,Nastavení hry
 104,,Tribut
-105,Players can send resources to allies,Hráči mohou posílat zdroje spojencům
+105,,Players can send resources to allies
 106,,Diplomacie
 107,,Hráči si mohou nastavit své vlastní aliance
 108,,Týmové vidění
@@ -143,7 +143,7 @@
 142,,Časovač skóre
 143,,Čas
 144,,Minimální populační kapacita
-145,,Mění počáteční kapacitu populace bez domů. Nepřekročí maximální kapacitu obyvatel.
+145,,Changes initial population capacity without houses. Will not exceed maximum population capacity.
 146,,Maximální populační kapacita
 147,,Mění maximální kapacitu populace. Vyžaduje domy
 148,,0
@@ -198,14 +198,14 @@
 197,,Počáteční král
 198,,Každý hráč začíná z králem blízko začátku
 199,,Zvonek
-200,,Obsahuje velikonoční vajíčko
+200,,Easter Egg
 201,,Předčasný trh
 202,,Umožňuje výstavbu trhu v době temna
 203,,Bombardování stromů
 204,,Umožňuje obléhacím zařízením a lodím s vlastností cíl zem ničit stromy
 205,,Rychlost simulace
 206,,Mění rychlost simulace hry. Tuto možnost nelze aktivovať ve hře pro více hráčů a bude zakázána.
-207,,Herní hodnotity
+207,,Game Rates
 208,,Vynásobí všechny následující rychlosti shromažďování
 209,,1-krát
 210,,2-krát
@@ -251,7 +251,7 @@
 250,,Deaktivuje stavbu doků v jakémkoli věku
 251,,Střední
 252,,Bojujte až do hořkého konce.
-253,,Převahu až do konce.
+253,,Prevail until the end.
 254,,Monarcha nepodléhá žádné pozemské autoritě
 255,,Král
 256,,Opevněný
@@ -284,7 +284,7 @@
 283,,Červené
 284,Yellow,Zlatá
 285,,Zelená
-286,,Tyrkysový
+286,,Turquoise
 287,,Nachový
 288,,Oranžový
 289,,Růžový
