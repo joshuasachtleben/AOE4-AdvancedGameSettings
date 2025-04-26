@@ -352,6 +352,27 @@ AGS_ENTITY_TABLE = {
 		blacksmith = "building_tech_unit_infantry_control_jpn",
 		outpost = "building_defense_outpost_jpn",
 	},
+	lancaster = {
+		castle = "building_defense_keep_lan",
+		town_center_capital = "building_town_center_capital_lan",
+		town_center = "building_town_center_lan",
+		scar_market = "building_econ_market_control_lan",
+		villager = "unit_villager_1_lan",
+		scout = "unit_scout_1_lan",
+		king = "unit_king_1_lan",
+		palisade_wall = "building_defense_palisade_lan",
+		palisade_gate = "building_defense_palisade_gate_lan",
+		monk = "unit_monk_3_lan",
+		monastery = "building_unit_religious_control_lan",
+		barracks = "building_unit_infantry_control_lan",
+		stable = "building_unit_cavalry_control_lan",
+		archery_range = "building_unit_ranged_control_lan",
+		siege_workshop = "building_unit_siege_control_lan",
+		scar_dock = "building_unit_naval_lan",
+		house = "building_house_control_lan",
+		blacksmith = "building_tech_unit_infantry_control_lan",
+		outpost = "building_defense_outpost_lan",
+	},
 	malian = {
 		castle = "building_defense_keep_mal",
 		town_center_capital = "building_town_center_capital_mal",
@@ -466,6 +487,27 @@ AGS_ENTITY_TABLE = {
 		blacksmith = "building_tech_unit_infantry_control_sul",
 		outpost = "building_defense_outpost_control_sul",
 	},
+	templar = {
+		castle = "building_defense_keep_tem",
+		town_center_capital = "building_town_center_capital_tem",
+		town_center = "building_town_center_tem",
+		scar_market = "building_econ_market_control_tem",
+		villager = "unit_villager_1_tem",
+		scout = "unit_scout_1_tem",
+		king = "unit_king_1_tem",
+		palisade_wall = "building_defense_palisade_tem",
+		palisade_gate = "building_defense_palisade_gate_tem",
+		monk = "unit_monk_3_tem",
+		monastery = "building_unit_religious_control_tem",
+		barracks = "building_unit_infantry_control_tem",
+		stable = "building_unit_cavalry_control_tem",
+		archery_range = "building_unit_ranged_control_tem",
+		siege_workshop = "building_unit_siege_control_tem",
+		scar_dock = "building_unit_naval_tem",
+		house = "building_house_control_tem",
+		blacksmith = "building_tech_unit_infantry_control_tem",
+		outpost = "building_defense_outpost_tem",
+	},
 }
 
 AGS_CIV_ABBASID = "abbasid"
@@ -480,11 +522,13 @@ AGS_CIV_FRENCH_HA_01 = "french_ha_01"
 AGS_CIV_HRE = "hre"
 AGS_CIV_HRE_HA_01 = "hre_ha_01"
 AGS_CIV_JAPANESE = "japanese"
+AGS_CIV_LANCASTER = "lancaster"
 AGS_CIV_MALIAN = "malian"
 AGS_CIV_MONGOL = "mongol"
 AGS_CIV_OTTOMAN = "ottoman"
 AGS_CIV_RUS = "rus"
 AGS_CIV_SULTANATE = "sultanate"
+AGS_CIV_TEMPLAR = "templar"
 AGS_UP_ANY = "common"
 AGS_UP_CASTLE = "AGE_CASTLE"
 AGS_UP_DARK = "AGE_DARK"
@@ -506,11 +550,13 @@ AGS_CIV_PREFIXES = {
 	hre = "hre_",
 	hre_ha_01 = "hre_ha_01",
 	japanese = "jpn_",
+	lancaster = "lan_",
 	malian = "mal_",
 	mongol = "mon_",
 	ottoman = "ott_",
 	rus = "rus_",
 	sultanate = "sul_",
+	templar = "tem_",
 }
 
 AGS_UPGRADE_AGES = {
@@ -551,6 +597,8 @@ AGS_UPGRADE_CORRECTION_TABLE = {
 	},
 	japanese = {
 	},
+	lancaster = {
+	},
 	malian = {
 		"upgrade_ranged_incendiary",			
 		"upgrade_unit_religious_tithe_barn_4",
@@ -584,6 +632,8 @@ AGS_UPGRADE_CORRECTION_TABLE = {
 	},
 	sultanate = {
 		-- this faction uses if to not get any
+	},
+	templar = {
 	},
 }
 
@@ -880,6 +930,30 @@ AGS_UPGRADE_TABLE = {
 		AGE_IMPERIAL = {
 		},
 	},
+	lancaster = {
+		AGE_DARK = {
+		},
+		AGE_FEUDAL = {
+		"upgrade_naval_shipwrights_eng",
+		"upgrade_longbow_make_camp_eng",
+		"upgrade_unit_manatarms_2_eng",
+				},
+		AGE_CASTLE = {
+			"upgrade_armor_clad_eng",
+			"upgrade_network_of_citadels_eng",
+			"upgrade_unit_archer_3_eng",
+			"upgrade_unit_manatarms_3_eng",
+			"upgrade_unit_spearman_3_eng",
+		},
+		AGE_IMPERIAL = {
+			"upgrade_farm_improved_enclosures_eng",
+			"upgrade_ranged_longbow_arrow_volley_eng",
+			"upgrade_trebuchet_aoe_eng",
+			"upgrade_unit_archer_4_eng",
+			"upgrade_unit_manatarms_4_eng",
+			"upgrade_unit_spearman_4_eng",
+		},
+	},
 	malian = {
 		AGE_DARK = {	
 		},
@@ -1150,6 +1224,41 @@ AGS_UPGRADE_TABLE = {
 			"upgrade_landmark_siege_elephant_sul",
 		},
 	},
+	templar = {
+		AGE_DARK = {
+		},
+		AGE_FEUDAL = {
+		},
+		AGE_CASTLE = {
+		},
+		AGE_IMPERIAL = {
+		},
+	},
+	hre = {
+		AGE_DARK = {
+		},
+		AGE_FEUDAL = {
+			"upgrade_naval_firestations_hre",
+			"upgrade_infantry_marching_drills_hre",
+		},
+		AGE_CASTLE = {
+			"upgrade_benediction_hre",
+			"upgrade_inspired_infantry_hre",
+			"upgrade_devoutness_hre",
+			"upgrade_building_fire_armor_hre",
+			"upgrade_man_at_arms_maces_hre",
+			"upgrade_man_at_arms_two_handed_hre",
+			"upgrade_unit_manatarms_3_hre",
+			"upgrade_unit_religious_herbal_medicine_4_hre",
+		},
+		AGE_IMPERIAL = {
+			"upgrade_reinforced_defenses_hre",
+			"upgrade_riveted_chain_armour_hre",
+			"upgrade_unit_landsknecht_4_hre",
+			"upgrade_unit_manatarms_4_hre",
+			"upgrade_unit_religious_piety_4_hre",
+		},
+	},
 }
 
 ---------------------------------------------------------------------------------------------------
@@ -1161,6 +1270,7 @@ function AGS_GetCivilizationEntity(player_civ, bp_type)
 end
 
 function AGS_GetCivilizationUnit(player_civ, bp_type)
+	AGS_Print(player_civ)
 	return BP_GetSquadBlueprint(AGS_ENTITY_TABLE[player_civ][bp_type])
 end
 
