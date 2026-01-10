@@ -1,6 +1,6 @@
 ﻿ID,SourceText,TranslatedText
-1,,高级遊戲設定
-2,,通過更多選項擴充《帝國時代 4》的遊戲模式，真正讓您能夠自定義比賽設定。\n\n額外獲勝條件和不同開局，例如遊牧、條約和外交...\n\n幫助、反饋、錯誤報告和對模式的貢獻可前往：\nhttps://github.com/joshuasachtleben/AOE4-AdvancedGameSettings
+1,,高级遊戲設定[修復 Fatal Scar Error]
+2,,[修復 Fatal Scar Error 在 sachtleben 的變體中；所有功勞歸於 Woprok 和 sachtleben]通過更多選項擴充《帝國時代 4》的遊戲模式，真正讓您能夠自定義比賽設定。\n\n額外獲勝條件和不同開局，例如遊牧、條約和外交...\n\n幫助、反饋、錯誤報告和對模式的貢獻可前往：\nhttps://github.com/joshuasachtleben/AOE4-AdvancedGameSettings\nhttps://github.com/grandoth/AOE4-AdvancedGameSettings [Fatal Scar Fix]
 3,,高級遊戲設定提供多種比賽選項和獲勝條件，以自定義您的遊戲並如您所願進行。\n\n源代碼、反饋、錯誤報告和對模式的貢獻可前往：\nhttps://github.com/joshuasachtleben/AOE4-AdvancedGameSettings
 4,,獲勝條件
 5,,殲滅
