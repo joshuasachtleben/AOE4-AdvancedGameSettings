@@ -41,6 +41,30 @@ AGS_STARTING_CITIES_TYPES = {
 -- List of all combinations we support
 AGS_STARTING_CITIES_OPTIONS = {
 	{
+		civ = AGS_CIV_ABBASID,
+		option = AGS_STARTING_CITIES_TYPES.Standard,
+	},
+	{
+		civ = AGS_CIV_ABBASID_HA_01,
+		option = AGS_STARTING_CITIES_TYPES.Standard,
+	},
+	{
+		civ = AGS_CIV_AYYUBID_CMP,
+		option = AGS_STARTING_CITIES_TYPES.Standard,
+	},
+	{
+		civ = AGS_CIV_BYZANTINE,
+		option = AGS_STARTING_CITIES_TYPES.Standard,
+	},
+	{
+		civ = AGS_CIV_CHINESE,
+		option = AGS_STARTING_CITIES_TYPES.Standard,
+	},
+	{
+		civ = AGS_CIV_CHINESE_HA_01,
+		option = AGS_STARTING_CITIES_TYPES.Standard,
+	},
+	{
 		civ = AGS_CIV_ENGLISH,
 		option = AGS_STARTING_CITIES_TYPES.Standard,
 	},
@@ -49,27 +73,23 @@ AGS_STARTING_CITIES_OPTIONS = {
 		option = AGS_STARTING_CITIES_TYPES.Standard,
 	},
 	{
+		civ = AGS_CIV_FRENCH_HA_01,
+		option = AGS_STARTING_CITIES_TYPES.Standard,
+	},
+	{
 		civ = AGS_CIV_HRE,
 		option = AGS_STARTING_CITIES_TYPES.Standard,
 	},
 	{
-		civ = AGS_CIV_RUS,
+		civ = AGS_CIV_HRE_HA_01,
 		option = AGS_STARTING_CITIES_TYPES.Standard,
 	},
 	{
-		civ = AGS_CIV_MONGOL,
+		civ = AGS_CIV_JAPANESE,
 		option = AGS_STARTING_CITIES_TYPES.Standard,
 	},
 	{
-		civ = AGS_CIV_CHINESE,
-		option = AGS_STARTING_CITIES_TYPES.Standard,
-	},
-	{
-		civ = AGS_CIV_ABBASID,
-		option = AGS_STARTING_CITIES_TYPES.Standard,
-	},
-	{
-		civ = AGS_CIV_SULTANATE,
+		civ = AGS_CIV_LANCASTER,
 		option = AGS_STARTING_CITIES_TYPES.Standard,
 	},
 	{
@@ -77,7 +97,23 @@ AGS_STARTING_CITIES_OPTIONS = {
 		option = AGS_STARTING_CITIES_TYPES.Standard,
 	},
 	{
+		civ = AGS_CIV_MONGOL,
+		option = AGS_STARTING_CITIES_TYPES.Standard,
+	},
+	{
 		civ = AGS_CIV_OTTOMAN,
+		option = AGS_STARTING_CITIES_TYPES.Standard,
+	},
+	{
+		civ = AGS_CIV_RUS,
+		option = AGS_STARTING_CITIES_TYPES.Standard,
+	},
+	{
+		civ = AGS_CIV_SULTANATE,
+		option = AGS_STARTING_CITIES_TYPES.Standard,
+	},
+	{
+		civ = AGS_CIV_TEMPLAR,
 		option = AGS_STARTING_CITIES_TYPES.Standard,
 	},
 }

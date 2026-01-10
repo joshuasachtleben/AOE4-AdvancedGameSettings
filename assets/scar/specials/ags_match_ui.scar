@@ -24,7 +24,7 @@ AGS_MATCH_UI_CONTEXT = {
 			toggle_tooltip = Loc_FormatText("$64c5019a145c4e4da448dbd3adeea61e:317"),
 			info_title = Loc_FormatText("$64c5019a145c4e4da448dbd3adeea61e:320"),
 			github_title = Loc_FormatText("$64c5019a145c4e4da448dbd3adeea61e:319"),
-			github_url = "https:/".. "/github.com/" .. "W" .. "o" .. "p" .. "r" .. "o" .. "k" .. "/AOE4-AdvancedGameSettings",
+			github_url = "https://github.com/joshuasachtleben/AOE4-AdvancedGameSettings",
 		},	
 		info = {
 			title_version = Loc_FormatText("$64c5019a145c4e4da448dbd3adeea61e:321"),

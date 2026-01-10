@@ -160,6 +160,28 @@ AGS_ENTITY_TABLE = {
 		blacksmith = "building_tech_unit_infantry_control_byz",
 		outpost = "building_defense_outpost_byz",
 	},
+	byzantine_ha_mac = {
+		castle = "building_defense_keep_byz_ha_mac",
+		town_center_capital = "building_town_center_capital_byz_ha_mac",
+		town_center = "building_town_center_byz_ha_mac",
+		town_center_landmark = "building_landmark_age2_westminster_palace_byz_ha_mac",
+		scar_market = "building_econ_market_control_byz_ha_mac",
+		villager = "unit_villager_1_byz_ha_mac",
+		scout = "unit_scout_1_byz_ha_mac",
+		king = "unit_king_1_byz_ha_mac",
+		palisade_wall = "building_defense_palisade_byz_ha_mac",
+		palisade_gate = "building_defense_palisade_gate_byz_ha_mac",
+		monk = "unit_monk_3_byz_ha_mac",
+		monastery = "building_unit_religious_control_byz_ha_mac",
+		barracks = "building_unit_infantry_control_byz_ha_mac",
+		stable = "building_unit_cavalry_control_byz_ha_mac",
+		archery_range = "building_unit_ranged_control_byz_ha_mac",
+		siege_workshop = "building_unit_siege_control_byz_ha_mac",
+		scar_dock = "building_unit_naval_byz_ha_mac",		
+		house = "building_house_control_byz_ha_mac",
+		blacksmith = "building_tech_unit_infantry_control_byz_ha_mac",
+		outpost = "building_defense_outpost_byz_ha_mac",
+	},
 	english = {
 		castle = "building_defense_keep_eng",
 		town_center_capital = "building_town_center_capital_eng",
@@ -352,6 +374,48 @@ AGS_ENTITY_TABLE = {
 		blacksmith = "building_tech_unit_infantry_control_jpn",
 		outpost = "building_defense_outpost_jpn",
 	},
+	japanese_ha_sen = {
+		castle = "building_defense_keep_jpn_ha_sen",
+		town_center_capital = "building_town_center_capital_jpn_ha_sen",
+		town_center = "building_town_center_jpn_ha_sen",
+		scar_market = "building_econ_market_control_jpn_ha_sen",
+		villager = "unit_villager_1_jpn_ha_sen",
+		scout = "unit_scout_1_jpn_ha_sen",
+		king = "unit_king_1_jpn_ha_sen",
+		palisade_wall = "building_defense_palisade_jpn_ha_sen",
+		palisade_gate = "building_defense_palisade_gate_jpn_ha_sen",
+		monk = "unit_monk_3_jpn_ha_sen",
+		monastery = "building_unit_religious_control_jpn_ha_sen",
+		barracks = "building_unit_infantry_control_jpn_ha_sen",
+		stable = "building_unit_cavalry_control_jpn_ha_sen",
+		archery_range = "building_unit_ranged_control_jpn_ha_sen",
+		siege_workshop = "building_unit_siege_control_jpn_ha_sen",
+		scar_dock = "building_unit_naval_jpn_ha_sen",
+		house = "building_house_control_jpn_ha_sen",
+		blacksmith = "building_tech_unit_infantry_control_jpn_ha_sen",
+		outpost = "building_defense_outpost_jpn_ha_sen",
+	},
+	lancaster = {
+		castle = "building_defense_keep_lan",
+		town_center_capital = "building_town_center_capital_lan",
+		town_center = "building_town_center_lan",
+		scar_market = "building_econ_market_control_lan",
+		villager = "unit_villager_1_lan",
+		scout = "unit_scout_1_lan",
+		king = "unit_king_1_lan",
+		palisade_wall = "building_defense_palisade_lan",
+		palisade_gate = "building_defense_palisade_gate_lan",
+		monk = "unit_monk_3_lan",
+		monastery = "building_unit_religious_control_lan",
+		barracks = "building_unit_infantry_control_lan",
+		stable = "building_unit_cavalry_control_lan",
+		archery_range = "building_unit_ranged_control_lan",
+		siege_workshop = "building_unit_siege_control_lan",
+		scar_dock = "building_unit_naval_lan",
+		house = "building_house_control_lan",
+		blacksmith = "building_tech_unit_infantry_control_lan",
+		outpost = "building_defense_outpost_lan",
+	},
 	malian = {
 		castle = "building_defense_keep_mal",
 		town_center_capital = "building_town_center_capital_mal",
@@ -393,6 +457,27 @@ AGS_ENTITY_TABLE = {
 		house = "building_house_mon",
 		blacksmith = "building_tech_unit_infantry_mon",
 		outpost = "building_defense_outpost_mon",
+	},
+	mongol_ha_gol = {
+		castle = "building_defense_keep_control_nov_ha_gol",
+		town_center_capital = "building_town_center_capital_mon_ha_gol",
+		town_center_capital_moving = "building_town_center_capital_moving_mon_ha_gol",
+		town_center = "building_town_center_mon_ha_gol",
+		scar_market = "building_econ_market_mon_ha_gol",
+		villager = "unit_villager_1_mon_ha_gol",
+		scout = "unit_khan_1_mon_ha_gol",
+		king = "unit_king_1_mon_ha_gol",
+		house_moving = "building_house_moving_mon_ha_gol",
+		monk = "unit_monk_3_mon_ha_gol",
+		monastery = "building_unit_religious_mon_ha_gol",
+		barracks = "building_unit_infantry_mon_ha_gol",
+		stable = "building_unit_cavalry_mon_ha_gol",
+		archery_range = "building_unit_ranged_mon_ha_gol",
+		siege_workshop = "building_unit_siege_mon_ha_gol",
+		scar_dock = "building_unit_naval_mon_ha_gol",
+		house = "building_house_mon_ha_gol",
+		blacksmith = "building_tech_unit_infantry_mon_ha_gol",
+		outpost = "building_defense_outpost_mon_ha_gol",
 	},
 	neutral = {
 		sheep = "gaia_herdable_sheep",
@@ -466,12 +551,55 @@ AGS_ENTITY_TABLE = {
 		blacksmith = "building_tech_unit_infantry_control_sul",
 		outpost = "building_defense_outpost_control_sul",
 	},
+	sultanate_ha_tug = {
+		castle = "building_defense_keep_control_sul_ha_tug",
+		town_center_capital = "building_town_center_capital_sul_ha_tug",
+		town_center = "building_town_center_sul_ha_tug",
+		scar_market = "building_econ_market_control_sul_ha_tug",
+		villager = "unit_villager_1_sul_ha_tug",
+		scout = "unit_scout_1_sul_ha_tug",
+		king = "unit_king_1_sul_ha_tug",
+		palisade_wall = "building_defense_palisade_sul_ha_tug",
+		palisade_gate = "building_defense_palisade_gate_sul_ha_tug",
+		monk = "unit_monk_2_sul_ha_tug",
+		monastery = "building_unit_religious_control_sul_ha_tug",
+		barracks = "building_unit_infantry_control_sul_ha_tug",
+		stable = "building_unit_cavalry_control_sul_ha_tug",
+		archery_range = "building_unit_ranged_control_sul_ha_tug",
+		siege_workshop = "building_unit_siege_control_sul_ha_tug",
+		scar_dock = "building_unit_naval_sul_ha_tug",	
+		house = "building_house_control_sul_ha_tug",	
+		blacksmith = "building_tech_unit_infantry_control_sul_ha_tug",
+		outpost = "building_defense_outpost_control_sul_ha_tug",
+	},
+	templar = {
+		castle = "building_defense_keep_tem",
+		town_center_capital = "building_town_center_capital_tem",
+		town_center = "building_town_center_tem",
+		scar_market = "building_econ_market_control_tem",
+		villager = "unit_villager_1_tem",
+		scout = "unit_scout_1_tem",
+		king = "unit_king_1_tem",
+		palisade_wall = "building_defense_palisade_tem",
+		palisade_gate = "building_defense_palisade_gate_tem",
+		monk = "unit_monk_3_tem",
+		monastery = "building_unit_religious_control_tem",
+		barracks = "building_unit_infantry_control_tem",
+		stable = "building_unit_cavalry_control_tem",
+		archery_range = "building_unit_ranged_control_tem",
+		siege_workshop = "building_unit_siege_control_tem",
+		scar_dock = "building_unit_naval_tem",
+		house = "building_house_control_tem",
+		blacksmith = "building_tech_unit_infantry_control_tem",
+		outpost = "building_defense_outpost_tem",
+	},
 }
 
 AGS_CIV_ABBASID = "abbasid"
 AGS_CIV_ABBASID_HA_01 = "abbasid_ha_01"
 AGS_CIV_AYYUBID_CMP = "ayyubid_cmp"
 AGS_CIV_BYZANTINE = "byzantine"
+AGS_CIV_BYZANTINE_HA_MAC = "byzantine_ha_mac"
 AGS_CIV_CHINESE = "chinese"
 AGS_CIV_CHINESE_HA_01 = "chinese_ha_01"
 AGS_CIV_ENGLISH = "english"
@@ -480,11 +608,16 @@ AGS_CIV_FRENCH_HA_01 = "french_ha_01"
 AGS_CIV_HRE = "hre"
 AGS_CIV_HRE_HA_01 = "hre_ha_01"
 AGS_CIV_JAPANESE = "japanese"
+AGS_CIV_JAPANESE_HA_SEN = "japanese_ha_sen"
+AGS_CIV_LANCASTER = "lancaster"
 AGS_CIV_MALIAN = "malian"
 AGS_CIV_MONGOL = "mongol"
+AGS_CIV_MONGOL_HA_GOL = "mongol_ha_gol"
 AGS_CIV_OTTOMAN = "ottoman"
 AGS_CIV_RUS = "rus"
 AGS_CIV_SULTANATE = "sultanate"
+AGS_CIV_SULTANATE_HA_TUG = "sultanate_ha_tug"
+AGS_CIV_TEMPLAR = "templar"
 AGS_UP_ANY = "common"
 AGS_UP_CASTLE = "AGE_CASTLE"
 AGS_UP_DARK = "AGE_DARK"
@@ -497,6 +630,7 @@ AGS_CIV_PREFIXES = {
 	abbasid_ha_01 = "abb_ha_01_",
 	ayyubid_cmp = "ayy_",
 	byzantine = "byz_",
+	byzantine_ha_mac = "byz_ha_mac_",
 	chinese = "chi_",
 	chinese_ha_01 = "chi_ha_01",
 	crusader_cmp = "cru_",
@@ -506,11 +640,16 @@ AGS_CIV_PREFIXES = {
 	hre = "hre_",
 	hre_ha_01 = "hre_ha_01",
 	japanese = "jpn_",
+	japanese_ha_sen = "jpn_ha_sen_",
+	lancaster = "lan_",
 	malian = "mal_",
 	mongol = "mon_",
+	mongol_ha_gol = "mon_ha_gol_",
 	ottoman = "ott_",
 	rus = "rus_",
 	sultanate = "sul_",
+	sultanate_ha_tug = "sul_ha_tug_",
+	templar = "tem_",
 }
 
 AGS_UPGRADE_AGES = {
@@ -529,6 +668,8 @@ AGS_UPGRADE_CORRECTION_TABLE = {
 	ayyubid_cmp = {
 	},
 	byzantine = {
+	},
+	byzantine_ha_mac = {
 	},
 	chinese = {
 	},
@@ -550,6 +691,10 @@ AGS_UPGRADE_CORRECTION_TABLE = {
 	hre_ha_01 = {
 	},
 	japanese = {
+	},
+	japanese_ha_sen = {
+	},
+	lancaster = {
 	},
 	malian = {
 		"upgrade_ranged_incendiary",			
@@ -576,6 +721,8 @@ AGS_UPGRADE_CORRECTION_TABLE = {
 		"upgrade_siege_chemistry",
 		"upgrade_siege_works",		
 	},
+	mongol_ha_gol = {
+	},
 	ottoman = {
 		"upgrade_tech_military_academy",
 	},
@@ -584,6 +731,10 @@ AGS_UPGRADE_CORRECTION_TABLE = {
 	},
 	sultanate = {
 		-- this faction uses if to not get any
+	},
+	sultanate_ha_tug = {
+	},
+	templar = {
 	},
 }
 
@@ -880,6 +1031,30 @@ AGS_UPGRADE_TABLE = {
 		AGE_IMPERIAL = {
 		},
 	},
+	lancaster = {
+		AGE_DARK = {
+		},
+		AGE_FEUDAL = {
+		"upgrade_naval_shipwrights_eng",
+		"upgrade_longbow_make_camp_eng",
+		"upgrade_unit_manatarms_2_eng",
+				},
+		AGE_CASTLE = {
+			"upgrade_armor_clad_eng",
+			"upgrade_network_of_citadels_eng",
+			"upgrade_unit_archer_3_eng",
+			"upgrade_unit_manatarms_3_eng",
+			"upgrade_unit_spearman_3_eng",
+		},
+		AGE_IMPERIAL = {
+			"upgrade_farm_improved_enclosures_eng",
+			"upgrade_ranged_longbow_arrow_volley_eng",
+			"upgrade_trebuchet_aoe_eng",
+			"upgrade_unit_archer_4_eng",
+			"upgrade_unit_manatarms_4_eng",
+			"upgrade_unit_spearman_4_eng",
+		},
+	},
 	malian = {
 		AGE_DARK = {	
 		},
@@ -1150,6 +1325,81 @@ AGS_UPGRADE_TABLE = {
 			"upgrade_landmark_siege_elephant_sul",
 		},
 	},
+	templar = {
+		AGE_DARK = {
+		},
+		AGE_FEUDAL = {
+		},
+		AGE_CASTLE = {
+		},
+		AGE_IMPERIAL = {
+		},
+	},
+	hre = {
+		AGE_DARK = {
+		},
+		AGE_FEUDAL = {
+			"upgrade_naval_firestations_hre",
+			"upgrade_infantry_marching_drills_hre",
+		},
+		AGE_CASTLE = {
+			"upgrade_benediction_hre",
+			"upgrade_inspired_infantry_hre",
+			"upgrade_devoutness_hre",
+			"upgrade_building_fire_armor_hre",
+			"upgrade_man_at_arms_maces_hre",
+			"upgrade_man_at_arms_two_handed_hre",
+			"upgrade_unit_manatarms_3_hre",
+			"upgrade_unit_religious_herbal_medicine_4_hre",
+		},
+		AGE_IMPERIAL = {
+			"upgrade_reinforced_defenses_hre",
+			"upgrade_riveted_chain_armour_hre",
+			"upgrade_unit_landsknecht_4_hre",
+			"upgrade_unit_manatarms_4_hre",
+			"upgrade_unit_religious_piety_4_hre",
+		},
+	},
+	byzantine_ha_mac = {
+		AGE_DARK = {
+		},
+		AGE_FEUDAL = {
+		},
+		AGE_CASTLE = {
+		},
+		AGE_IMPERIAL = {
+		},
+	},
+	japanese_ha_sen = {
+		AGE_DARK = {
+		},
+		AGE_FEUDAL = {
+		},
+		AGE_CASTLE = {
+		},
+		AGE_IMPERIAL = {
+		},
+	},
+	mongol_ha_gol = {
+		AGE_DARK = {
+		},
+		AGE_FEUDAL = {
+		},
+		AGE_CASTLE = {
+		},
+		AGE_IMPERIAL = {
+		},
+	},
+	sultanate_ha_tug = {
+		AGE_DARK = {
+		},
+		AGE_FEUDAL = {
+		},
+		AGE_CASTLE = {
+		},
+		AGE_IMPERIAL = {
+		},
+	},
 }
 
 ---------------------------------------------------------------------------------------------------
@@ -1161,6 +1411,7 @@ function AGS_GetCivilizationEntity(player_civ, bp_type)
 end
 
 function AGS_GetCivilizationUnit(player_civ, bp_type)
+	AGS_Print(player_civ)
 	return BP_GetSquadBlueprint(AGS_ENTITY_TABLE[player_civ][bp_type])
 end
 

@@ -1,7 +1,7 @@
 ﻿ID,SourceText,TranslatedText
 1,,高级遊戲設定
-2,,通過更多選項擴充《帝國時代 4》的遊戲模式，真正讓您能夠自定義比賽設定。\n\n額外獲勝條件和不同開局，例如遊牧、條約和外交...\n\n幫助、反饋、錯誤報告和對模式的貢獻可前往：\nhttps://github.com/search?q=AOE4-AdvancedGameSettings
-3,,高級遊戲設定提供多種比賽選項和獲勝條件，以自定義您的遊戲並如您所願進行。\n\n源代碼、反饋、錯誤報告和對模式的貢獻可前往：\nhttps://github.com/Woprok/AOE4-AdvancedGameSettings
+2,,通過更多選項擴充《帝國時代 4》的遊戲模式，真正讓您能夠自定義比賽設定。\n\n額外獲勝條件和不同開局，例如遊牧、條約和外交...\n\n幫助、反饋、錯誤報告和對模式的貢獻可前往：\nhttps://github.com/joshuasachtleben/AOE4-AdvancedGameSettings
+3,,高級遊戲設定提供多種比賽選項和獲勝條件，以自定義您的遊戲並如您所願進行。\n\n源代碼、反饋、錯誤報告和對模式的貢獻可前往：\nhttps://github.com/joshuasachtleben/AOE4-AdvancedGameSettings
 4,,獲勝條件
 5,,殲滅
 6,,消滅所有敵人，此選項為必選項，否則玩家即使失去一切也不會失敗
@@ -321,7 +321,7 @@
 320,,比賽設定
 321,,Mod 版本：
 322,,AGS游牧
-323,,AGS遊牧就是著名的遊牧玩法，加了一些外交和一小部分選項但仍然保持遊牧玩法本質。\n\n幫助、反饋、錯誤報告和對模式的貢獻可前往：\nhttps://github.com/search?q=AOE4-AdvancedGameSettings
+323,,AGS遊牧就是著名的遊牧玩法，加了一些外交和一小部分選項但仍然保持遊牧玩法本質。\n\n幫助、反饋、錯誤報告和對模式的貢獻可前往：\nhttps://github.com/joshuasachtleben/AOE4-AdvancedGameSettings
 324,,奇觀建造
 325,,即使沒有開啟奇觀勝利或者征服勝利仍然可以建造奇觀。
 326,,雙倍村民
@@ -394,4 +394,4 @@
 393,,游牧 比赛 AGS
 394,,由 MrMerlin 為 The Nomadic Clash 組織的 遊牧 預配置版本。
 395,King of the Hill AGS,山丘之王 AGS
-396,"Provides quick way to play King of the Hill on any map.\n\nHelp, feedback, bug reports and contribution to mode can be done at:\nhttps://github.com/search?q=AOE4-AdvancedGameSettings",提供在任何地圖上玩山丘之王的快捷方式。\n\n源代碼、反饋、錯誤報告和對模式的貢獻可前往：\nhttps://github.com/Woprok/AOE4-AdvancedGameSettings
+396,"Provides quick way to play King of the Hill on any map.\n\nHelp, feedback, bug reports and contribution to mode can be done at:\nhttps://github.com/joshuasachtleben/AOE4-AdvancedGameSettings",提供在任何地圖上玩山丘之王的快捷方式。\n\n源代碼、反饋、錯誤報告和對模式的貢獻可前往：\nhttps://github.com/joshuasachtleben/AOE4-AdvancedGameSettings

@@ -1,7 +1,7 @@
 ﻿ID,SourceText,TranslatedText
 1,,Расширенные настроики игры
-2,,Расширяет стандартный игровой режим Age of Empires 4 новыми параметрами и действительно дает вам возможность настраивать параметры матча.\n\nСодержит дополнительные условия победы. Различные старты такие как кочевник. И даже договор и дипломатия...\n\nПомощь отзывы отчеты об ошибках и дополнения к режиму можно сделать по адресу: \nhttps://github.com/search?q=AOE4-AdvancedGameSettings\n\Перевод подготовил https://github.com/w3k5
-3,,AРасширенные настройки игры предоставляют вам различные варианты матчей и условия победы чтобы настроить свою игру и играть в нее так как вы хотите.\n\nПомощь отзывы отчеты об ошибках и дополнения к режиму можно сделать по адресу:\nhttps://github .com/search?q=AOE4-Расширенные настройки игры
+2,,Расширяет стандартный игровой режим Age of Empires 4 новыми параметрами и действительно дает вам возможность настраивать параметры матча.\n\nСодержит дополнительные условия победы. Различные старты такие как кочевник. И даже договор и дипломатия...\n\nПомощь отзывы отчеты об ошибках и дополнения к режиму можно сделать по адресу: \nhttps://github.com/joshuasachtleben/AOE4-AdvancedGameSettings\n\Перевод подготовил https://github.com/w3k5
+3,,AРасширенные настройки игры предоставляют вам различные варианты матчей и условия победы чтобы настроить свою игру и играть в нее так как вы хотите.\n\nПомощь отзывы отчеты об ошибках и дополнения к режиму можно сделать по адресу:\nhttps://github.com/joshuasachtleben/AOE4-AdvancedGameSettings
 4,,Условия победы
 5,,Аннигиляция
 6,,Уничтожьте всех врагов. Эта опция обязательна если только вы не хотите чтобы игрок не выбывал даже если он потеряет все.
@@ -321,7 +321,7 @@
 320,,Настроики матча
 321,,Версия мода:
 322,,Mod Title,,AGS Nomad
-323,,Mod Gamemode Description,,"AGS Nomad is alternative version to well known nomad that provides diplomacy and few options that stays true to nomad nature.\n\nHelp, feedback, bug reports and contribution to mode can be done at:\nhttps://github.com/search?q=AOE4-AdvancedGameSettings"
+323,,Mod Gamemode Description,,"AGS Nomad is alternative version to well known nomad that provides diplomacy and few options that stays true to nomad nature.\n\nHelp, feedback, bug reports and contribution to mode can be done at:\nhttps://github.com/joshuasachtleben/AOE4-AdvancedGameSettings"
 324,,Wonder Construction
 325,,Enables Wonder construction without Wonder win condition or Conquest win condition with Conquest Wonder selected.
 326,,Double Workers
