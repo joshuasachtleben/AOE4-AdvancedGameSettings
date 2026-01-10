@@ -79,7 +79,7 @@ function AGS_Objectives_Present(objective_id, state, title, title_param)
 	if state ~= nil then
 		Obj_SetState(objective_id, state)
 	end
-	Obj_CreatePopup(objective_id, formatted_title)	
+	Obj_CreatePopup(objective_id, formatted_title, tostring(state))
 end
 
 function AGS_Objectives_SetColorProgress(objective, state, color, progress_percentage)
