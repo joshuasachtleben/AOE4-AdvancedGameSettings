@@ -2,6 +2,7 @@
 -- Authors:
 -- Relic
 -- Woprock
+-- Joshua Sachtleben
 --
 -- Description:
 -- Scale wonder cost from initial value to new value. Initial value can be redefined.

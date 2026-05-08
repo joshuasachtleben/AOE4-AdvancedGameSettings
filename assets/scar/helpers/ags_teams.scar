@@ -2,6 +2,7 @@
 -- Authors:
 -- Relic
 -- Woprock
+-- Joshua Sachtleben
 --
 -- Description:
 -- Keeps track of all teams and provides api for anyone to access.

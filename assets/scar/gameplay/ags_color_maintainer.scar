@@ -2,6 +2,7 @@
 -- Authors:
 -- Relic
 -- Woprock
+-- Joshua Sachtleben
 --
 -- Description:
 -- Keeps track of all player colors and ensures that it stays during the whole game set to same value.
@@ -102,13 +103,16 @@ function AGS_ColorMaintainer_RefreshSlots()
 	end
 	PlayerColour_Enable()	
 	for _, player in pairs(PLAYERS) do
-		if not player.isEliminated then
+		if not player.isEliminated and player.AGS_Colors.Slot ~= nil then
 			AGS_ColorMaintainer_ForceColor(player, player.AGS_Colors.Slot)				
 		end
 	end	
 end
 
 function AGS_ColorMaintainer_ForceColor(player, slot)
+	if slot == nil then
+		return
+	end
 	Game_SetPlayerSlotColour(player.id, slot)
 	Game_SetPlayerUISlotColour(player.id, slot)
 end

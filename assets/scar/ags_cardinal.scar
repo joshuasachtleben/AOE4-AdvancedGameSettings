@@ -2,6 +2,7 @@
 -- Authors:
 -- Relic
 -- Woprock
+-- Joshua Sachtleben
 --
 -- Description:
 -- Overwrites any cardinal inherited functions to ensure AGS functionality.

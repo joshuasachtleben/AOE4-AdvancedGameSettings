@@ -2,6 +2,7 @@
 -- Authors:
 -- Relic
 -- Woprock
+-- Joshua Sachtleben
 --
 -- Description:
 -- Simplified access to civilization specific blueprints.
@@ -395,6 +396,27 @@ AGS_ENTITY_TABLE = {
 		blacksmith = "building_tech_unit_infantry_control_jpn_ha_sen",
 		outpost = "building_defense_outpost_jpn_ha_sen",
 	},
+	jin = {
+		castle = "building_defense_keep_jin",
+		town_center_capital = "building_town_center_capital_jin",
+		town_center = "building_town_center_jin",
+		scar_market = "building_econ_market_control_jin",
+		villager = "unit_villager_1_jin",
+		scout = "unit_scout_1_jin",
+		king = "unit_king_1_jin",
+		palisade_wall = "building_defense_palisade_jin",
+		palisade_gate = "building_defense_palisade_gate_jin",
+		monk = "unit_monk_3_jin",
+		monastery = "building_unit_religious_control_jin",
+		barracks = "building_unit_infantry_control_jin",
+		stable = "building_unit_cavalry_control_jin",
+		archery_range = "building_unit_ranged_control_jin",
+		siege_workshop = "building_unit_siege_control_jin",
+		scar_dock = "building_unit_naval_jin",
+		house = "building_house_control_jin",
+		blacksmith = "building_tech_unit_infantry_control_jin",
+		outpost = "building_defense_outpost_jin",
+	},
 	lancaster = {
 		castle = "building_defense_keep_lan",
 		town_center_capital = "building_town_center_capital_lan",
@@ -602,6 +624,7 @@ AGS_CIV_BYZANTINE = "byzantine"
 AGS_CIV_BYZANTINE_HA_MAC = "byzantine_ha_mac"
 AGS_CIV_CHINESE = "chinese"
 AGS_CIV_CHINESE_HA_01 = "chinese_ha_01"
+AGS_CIV_CRUSADER_CMP = "crusader_cmp"
 AGS_CIV_ENGLISH = "english"
 AGS_CIV_FRENCH = "french"
 AGS_CIV_FRENCH_HA_01 = "french_ha_01"
@@ -609,6 +632,7 @@ AGS_CIV_HRE = "hre"
 AGS_CIV_HRE_HA_01 = "hre_ha_01"
 AGS_CIV_JAPANESE = "japanese"
 AGS_CIV_JAPANESE_HA_SEN = "japanese_ha_sen"
+AGS_CIV_JIN = "jin"
 AGS_CIV_LANCASTER = "lancaster"
 AGS_CIV_MALIAN = "malian"
 AGS_CIV_MONGOL = "mongol"
@@ -641,6 +665,7 @@ AGS_CIV_PREFIXES = {
 	hre_ha_01 = "hre_ha_01",
 	japanese = "jpn_",
 	japanese_ha_sen = "jpn_ha_sen_",
+	jin = "jin_",
 	lancaster = "lan_",
 	malian = "mal_",
 	mongol = "mon_",
@@ -693,6 +718,8 @@ AGS_UPGRADE_CORRECTION_TABLE = {
 	japanese = {
 	},
 	japanese_ha_sen = {
+	},
+	jin = {
 	},
 	lancaster = {
 	},
@@ -1022,6 +1049,16 @@ AGS_UPGRADE_TABLE = {
 		},
 	},
 	japanese = {
+		AGE_DARK = {
+		},
+		AGE_FEUDAL = {
+		},
+		AGE_CASTLE = {
+		},
+		AGE_IMPERIAL = {
+		},
+	},
+	jin = {
 		AGE_DARK = {
 		},
 		AGE_FEUDAL = {

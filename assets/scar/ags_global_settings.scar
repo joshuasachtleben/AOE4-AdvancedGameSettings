@@ -2,6 +2,7 @@
 -- Authors:
 -- Relic
 -- Woprock
+-- Joshua Sachtleben
 --
 -- Description:
 -- Contains all option definitions and their current values.
@@ -73,7 +74,7 @@ AGS_GS_COLOR_GREY = 9 -- Monsoon/Natural Grey
 -- Local player should never change. And be ready after Initialization Phase.
 -- Local player is used for UI & visual logic. Gameplay logic should never use it as it will cause desync.
 AGS_GS_LOCAL_PLAYER = nil
-AGS_GLOBAL_SETTINGS_BUILD = "4.2.1.0"
+AGS_GLOBAL_SETTINGS_BUILD = "4.2.2"
 AGS_GLOBAL_SETTINGS_MODULE = "AGS_GlobalSettings"
 AGS_GLOBAL_SETTINGS = {
 	Annihilation = true, -- Player loses everything. 

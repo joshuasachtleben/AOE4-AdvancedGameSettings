@@ -2,6 +2,7 @@
 -- Authors:
 -- Relic
 -- Woprock
+-- Joshua Sachtleben
 --
 -- Description:
 -- Spawns cities around the map.
@@ -65,6 +66,10 @@ AGS_STARTING_CITIES_OPTIONS = {
 		option = AGS_STARTING_CITIES_TYPES.Standard,
 	},
 	{
+		civ = AGS_CIV_CRUSADER_CMP,
+		option = AGS_STARTING_CITIES_TYPES.Standard,
+	},
+	{
 		civ = AGS_CIV_ENGLISH,
 		option = AGS_STARTING_CITIES_TYPES.Standard,
 	},
@@ -86,6 +91,10 @@ AGS_STARTING_CITIES_OPTIONS = {
 	},
 	{
 		civ = AGS_CIV_JAPANESE,
+		option = AGS_STARTING_CITIES_TYPES.Standard,
+	},
+	{
+		civ = AGS_CIV_JIN,
 		option = AGS_STARTING_CITIES_TYPES.Standard,
 	},
 	{
