@@ -1,4 +1,5 @@
-# Age of Empires IV - Advanced Game Settings
+# Age of Empires IV - Advanced Game Settings \[Fix Fatal Scar Error\]
+\[Fix Fatal Scar error in sachtleben's variant until the PR can be merged; all credit to Woprok and sachtleben\]
 Advanced Game Settings is a game mode for Age of Empires IV that provides new options for players to customize their games.
 
 ## Features:
